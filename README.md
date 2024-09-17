@@ -14,7 +14,9 @@ Clase de datos
 
 codigp
 
-a
+![image](https://github.com/user-attachments/assets/0fde66a9-c78f-4a91-accd-b683900e0554)
+
 
 resulado
 
+![image](https://github.com/user-attachments/assets/3113c03c-a857-4feb-ade3-42ff023ad0a2)
